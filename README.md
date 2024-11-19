@@ -31,8 +31,29 @@ We use this categorical data encoding technique when the features are nominal(do
 • Yeojohnson method
 
 # CODING AND OUTPUT:
-       # INCLUDE YOUR CODING AND OUTPUT SCREENSHOTS HERE
+![1](https://github.com/user-attachments/assets/2a2295f0-649b-4fe6-af2e-88d9cf0f32ec)
+![2](https://github.com/user-attachments/assets/0cb2b6d3-3766-463d-8dc6-b9e311f30dec)
+![3](https://github.com/user-attachments/assets/285a8fd2-c338-4c54-a7b4-98e849964913)
+![4](https://github.com/user-attachments/assets/ec779996-3c27-4db3-8b5c-2014ab470bea)
+![5](https://github.com/user-attachments/assets/44d8ddf8-5489-46a9-a15c-d64ee2f9a2bd)
+![6](https://github.com/user-attachments/assets/e13467ac-5335-4787-a533-177723eaadea)
+![7](https://github.com/user-attachments/assets/f28ce69e-9985-4ffa-af01-fd680f416e4a)
+![8](https://github.com/user-attachments/assets/dcdfcdf5-8143-4c02-ae71-a4b06257ee31)
+![9](https://github.com/user-attachments/assets/f61ef3be-ef37-4084-9e6f-a44067b55e4d)
+![10](https://github.com/user-attachments/assets/ae5c0d95-4b00-4ccd-8437-5bd7034df732)
+![11](https://github.com/user-attachments/assets/ac0e8284-d70f-436d-9ecc-dc6805f5ace1)
+![12](https://github.com/user-attachments/assets/4aebab52-131c-4c37-b1f8-d81c5577a206)
+![13](https://github.com/user-attachments/assets/01d2f674-d345-4c3f-85cf-9ac94ac3fe2a)
+![14](https://github.com/user-attachments/assets/d5cd2d8b-4afe-4d83-8df2-987960dc9e72)
+![15](https://github.com/user-attachments/assets/a8dc2bce-ef41-4c93-957e-5dd4678cb125)
+![16](https://github.com/user-attachments/assets/52885f65-70a0-488c-a447-ebafbeb6ea37)
+![17](https://github.com/user-attachments/assets/e2b2ced3-e1a1-4f71-ad1f-3f656eb3b29e)
+![18](https://github.com/user-attachments/assets/07c4e75d-c5e5-4be0-8e68-7e710fb3e21b)
+![19](https://github.com/user-attachments/assets/5fa3825b-b532-4ef8-9f24-4f7c012b1f07)
+![20](https://github.com/user-attachments/assets/e2ee4389-ff13-462a-961c-ea7ed875afe0)
+
+
 # RESULT:
-       # INCLUDE YOUR RESULT HERE
+     The given data performed as feature encoding and transformation process 
 
        
