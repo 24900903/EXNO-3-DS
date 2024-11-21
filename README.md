@@ -48,8 +48,6 @@ We use this categorical data encoding technique when the features are nominal(do
 ![15](https://github.com/user-attachments/assets/a8dc2bce-ef41-4c93-957e-5dd4678cb125)
 ![16](https://github.com/user-attachments/assets/52885f65-70a0-488c-a447-ebafbeb6ea37)
 ![17](https://github.com/user-attachments/assets/e2b2ced3-e1a1-4f71-ad1f-3f656eb3b29e)
-![18](https://github.com/user-attachments/assets/07c4e75d-c5e5-4be0-8e68-7e710fb3e21b)
-![19](https://github.com/user-attachments/assets/5fa3825b-b532-4ef8-9f24-4f7c012b1f07)
 ![20](https://github.com/user-attachments/assets/e2ee4389-ff13-462a-961c-ea7ed875afe0)
 
 # RESULT:
