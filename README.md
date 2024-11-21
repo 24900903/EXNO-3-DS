@@ -46,7 +46,7 @@ We use this categorical data encoding technique when the features are nominal(do
 ![13](https://github.com/user-attachments/assets/01d2f674-d345-4c3f-85cf-9ac94ac3fe2a)
 ![14](https://github.com/user-attachments/assets/d5cd2d8b-4afe-4d83-8df2-987960dc9e72)
 ![15](https://github.com/user-attachments/assets/a8dc2bce-ef41-4c93-957e-5dd4678cb125)
-![20](https://github.com/user-attachments/assets/e2ee4389-ff13-462a-961c-ea7ed875afe0)
+
 
 # RESULT:
      The given data performed as feature encoding and transformation process 
